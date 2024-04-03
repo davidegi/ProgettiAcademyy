@@ -1,0 +1,6 @@
+@GestioneFerramenta_HostAddress = http://localhost:5054
+
+GET {{GestioneFerramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
