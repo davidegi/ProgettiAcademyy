@@ -1,4 +1,8 @@
 
+using NasaInfo.Models;
+using NasaInfo.Repositories;
+using NasaInfo.Services;
+
 namespace NasaInfo
 {
     public class Program
@@ -14,6 +18,17 @@ namespace NasaInfo
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            #region
+            builder.Services.AddDbContext<NasaContext>(options => options.UseSqlService(
+                builder.Configuration.GetConnectionString("DefaultConnection")
+                ));
+            builder.Services.AddScoped<IRepo<OggettoCeleste>, OggettoRepo>();
+            builder.Services.AddScoped<OggettoService>();
+            builder.Services.AddScoped<IRepo<Sistema>, SistemaRepo>();
+            builder.Services.AddScoped<SistemaService>();
+
+            #endregion
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -22,6 +37,8 @@ namespace NasaInfo
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseHttpsRedirection();
 
             app.UseAuthorization();
 

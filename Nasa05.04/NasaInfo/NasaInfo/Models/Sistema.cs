@@ -7,6 +7,6 @@
         public string? Nome { get; set; } = null;
         public string? Tipo { get; set; } = null;
 
-        public IEnumerable<OCeleste_Sistema> ElencoOggSis { get; set; } = new List<OCeleste_Sistema>();
+        public IEnumerable<Oggetto_Sistema> ElencoOggSis { get; set; } = new List<Oggetto_Sistema>();
     }
 }

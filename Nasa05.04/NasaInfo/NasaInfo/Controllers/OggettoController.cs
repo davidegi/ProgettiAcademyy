@@ -1,6 +1,6 @@
 ﻿namespace NasaInfo.Controllers
 {
-    public class OCelesteController
+    public class OggettoController
     {
 
     }

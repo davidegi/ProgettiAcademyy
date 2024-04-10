@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\nasainfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\nasainfo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\nasacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\oceleste_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\oceleste_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\services\\sistemaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\controllers\\sistemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\controllers\\ocelestecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\controllers\\ocelestecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\controllers\\oggettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\controllers\\oggettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\dto\\sistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\dto\\sistemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\dto\\oggettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\dto\\oggettodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\oggettoceleste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\models\\oggetto_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\models\\oggetto_sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\services\\oggettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\services\\oggettoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\repositories\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\repositories\\sistemarepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\nasainfo\\nasainfo\\repositories\\oggettorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD0857E-6E06-4576-A14E-64593298BCD8}|NasaInfo\\NasaInfo.csproj|solutionrelative:nasainfo\\repositories\\oggettorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +70,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Sistema.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Models\\Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Sistema.cs",
+              "RelativeToolTip": "NasaInfo\\Models\\Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T15:08:27.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaDto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\DTO\\SistemaDto.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\DTO\\SistemaDto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\DTO\\SistemaDto.cs",
+              "RelativeToolTip": "NasaInfo\\DTO\\SistemaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:10:36.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OggettoDto.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\DTO\\OggettoDto.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\DTO\\OggettoDto.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\DTO\\OggettoDto.cs",
+              "RelativeToolTip": "NasaInfo\\DTO\\OggettoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:06:08.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OggettoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\OggettoController.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Controllers\\OggettoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\OggettoController.cs",
+              "RelativeToolTip": "NasaInfo\\Controllers\\OggettoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:59:51.178Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -52,100 +133,139 @@
               "RelativeDocumentMoniker": "NasaInfo\\Models\\NasaContext.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\NasaContext.cs",
               "RelativeToolTip": "NasaInfo\\Models\\NasaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T15:29:03.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NasaInfo",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\NasaInfo.csproj",
-              "RelativeDocumentMoniker": "NasaInfo\\NasaInfo.csproj",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\NasaInfo.csproj",
-              "RelativeToolTip": "NasaInfo\\NasaInfo.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-05T15:14:28.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SistemaController.cs",
               "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\SistemaController.cs",
               "RelativeDocumentMoniker": "NasaInfo\\Controllers\\SistemaController.cs",
               "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\SistemaController.cs",
               "RelativeToolTip": "NasaInfo\\Controllers\\SistemaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T15:13:25.578Z",
+              "WhenOpened": "2024-04-07T15:24:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SistemaService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\SistemaService.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Services\\SistemaService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\SistemaService.cs",
+              "RelativeToolTip": "NasaInfo\\Services\\SistemaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:41:42.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OCeleste_Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OCeleste_Sistema.cs",
-              "RelativeDocumentMoniker": "NasaInfo\\Models\\OCeleste_Sistema.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OCeleste_Sistema.cs",
-              "RelativeToolTip": "NasaInfo\\Models\\OCeleste_Sistema.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Program.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Program.cs",
+              "RelativeToolTip": "NasaInfo\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:37:07.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OggettoCeleste.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OggettoCeleste.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Models\\OggettoCeleste.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OggettoCeleste.cs",
+              "RelativeToolTip": "NasaInfo\\Models\\OggettoCeleste.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:47:41.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Oggetto_Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Oggetto_Sistema.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Models\\Oggetto_Sistema.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Oggetto_Sistema.cs",
+              "RelativeToolTip": "NasaInfo\\Models\\Oggetto_Sistema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T15:12:41.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OCelesteController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\OCelesteController.cs",
-              "RelativeDocumentMoniker": "NasaInfo\\Controllers\\OCelesteController.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Controllers\\OCelesteController.cs",
-              "RelativeToolTip": "NasaInfo\\Controllers\\OCelesteController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "SistemaRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\SistemaRepo.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Repositories\\SistemaRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\SistemaRepo.cs",
+              "RelativeToolTip": "NasaInfo\\Repositories\\SistemaRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T15:11:56.141Z",
+              "WhenOpened": "2024-04-07T15:26:49.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Sistema.cs",
-              "RelativeDocumentMoniker": "NasaInfo\\Models\\Sistema.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\Sistema.cs",
-              "RelativeToolTip": "NasaInfo\\Models\\Sistema.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABnAAAA",
+              "DocumentIndex": 12,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "NasaInfo\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T15:08:27.015Z",
+              "WhenOpened": "2024-04-07T15:27:09.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Program.cs",
-              "RelativeDocumentMoniker": "NasaInfo\\Program.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Program.cs",
-              "RelativeToolTip": "NasaInfo\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "OggettoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\OggettoService.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Services\\OggettoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\OggettoService.cs",
+              "RelativeToolTip": "NasaInfo\\Services\\OggettoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T14:54:20.152Z",
+              "WhenOpened": "2024-04-07T15:39:34.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OggettoCeleste.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OggettoCeleste.cs",
-              "RelativeDocumentMoniker": "NasaInfo\\Models\\OggettoCeleste.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Models\\OggettoCeleste.cs",
-              "RelativeToolTip": "NasaInfo\\Models\\OggettoCeleste.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA4AAAAIAAAA",
+              "DocumentIndex": 11,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Services\\IService.cs",
+              "RelativeToolTip": "NasaInfo\\Services\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T13:47:41.97Z",
+              "WhenOpened": "2024-04-07T15:40:50.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OggettoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\OggettoRepo.cs",
+              "RelativeDocumentMoniker": "NasaInfo\\Repositories\\OggettoRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\NasaInfo\\NasaInfo\\Repositories\\OggettoRepo.cs",
+              "RelativeToolTip": "NasaInfo\\Repositories\\OggettoRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:26:30.376Z",
               "EditorCaption": ""
             }
           ]
