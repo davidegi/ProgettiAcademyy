@@ -1,0 +1,6 @@
+@MarioTask_HostAddress = http://localhost:5115
+
+GET {{MarioTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
