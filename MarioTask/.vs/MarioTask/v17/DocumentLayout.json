@@ -1,61 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\",
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\repos\\characteruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\repos\\characteruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\services\\characteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\characteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\dto\\teamuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\dto\\teamuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\controllers\\characterusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\controllers\\characterusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\services\\teamuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\teamuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\controllers\\teamusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\controllers\\teamusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\dto\\characteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\dto\\characteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\models\\characteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\models\\characteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\models\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\models\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\models\\mariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\models\\mariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\models\\mariodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\mariotask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\models\\characteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\models\\characteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\dto\\characteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\dto\\characteruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\dto\\teamuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\dto\\teamuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\repos\\characteruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\repos\\characteruserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\services\\characteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\characteruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\controllers\\characterusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\controllers\\characterusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\services\\teamuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\teamuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\repos\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\controllers\\teamusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\controllers\\teamusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\models\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\models\\teamuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\mariotask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\mariotask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\nasa05.04\\mariotask\\mariotask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\mariotask\\mariotask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2E2A133B-D637-4A39-A5B3-07CB0C6324B6}|MarioTask\\MarioTask.csproj|solutionrelative:mariotask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -66,63 +70,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CharacterUserService.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\CharacterUserService.cs",
-              "RelativeDocumentMoniker": "MarioTask\\Services\\CharacterUserService.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\CharacterUserService.cs",
-              "RelativeToolTip": "MarioTask\\Services\\CharacterUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Program.cs",
+              "RelativeDocumentMoniker": "MarioTask\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Program.cs",
+              "RelativeToolTip": "MarioTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:53:49.673Z"
+              "WhenOpened": "2024-04-13T17:22:21.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TeamUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\DTO\\TeamUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\DTO\\TeamUserDTO.cs",
               "RelativeDocumentMoniker": "MarioTask\\DTO\\TeamUserDTO.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\DTO\\TeamUserDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\DTO\\TeamUserDTO.cs",
               "RelativeToolTip": "MarioTask\\DTO\\TeamUserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:52:09.587Z"
+              "WhenOpened": "2024-04-12T12:52:09.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TeamUserController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Controllers\\TeamUserController.cs",
-              "RelativeDocumentMoniker": "MarioTask\\Controllers\\TeamUserController.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Controllers\\TeamUserController.cs",
-              "RelativeToolTip": "MarioTask\\Controllers\\TeamUserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:56:45.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CharacterUserController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Controllers\\CharacterUserController.cs",
-              "RelativeDocumentMoniker": "MarioTask\\Controllers\\CharacterUserController.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Controllers\\CharacterUserController.cs",
-              "RelativeToolTip": "MarioTask\\Controllers\\CharacterUserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T13:57:47.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\IService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\IService.cs",
               "RelativeDocumentMoniker": "MarioTask\\Services\\IService.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\IService.cs",
               "RelativeToolTip": "MarioTask\\Services\\IService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +112,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TeamUserService.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\TeamUserService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\TeamUserService.cs",
               "RelativeDocumentMoniker": "MarioTask\\Services\\TeamUserService.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Services\\TeamUserService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\TeamUserService.cs",
               "RelativeToolTip": "MarioTask\\Services\\TeamUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +124,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "IRepo.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Repos\\IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Repos\\IRepo.cs",
               "RelativeDocumentMoniker": "MarioTask\\Repos\\IRepo.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Repos\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Repos\\IRepo.cs",
               "RelativeToolTip": "MarioTask\\Repos\\IRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +136,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CharacterUserRepo.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Repos\\CharacterUserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Repos\\CharacterUserRepo.cs",
               "RelativeDocumentMoniker": "MarioTask\\Repos\\CharacterUserRepo.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Repos\\CharacterUserRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Repos\\CharacterUserRepo.cs",
               "RelativeToolTip": "MarioTask\\Repos\\CharacterUserRepo.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,35 +149,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "CharacterUserDTO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\DTO\\CharacterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\DTO\\CharacterUserDTO.cs",
               "RelativeDocumentMoniker": "MarioTask\\DTO\\CharacterUserDTO.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\DTO\\CharacterUserDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\DTO\\CharacterUserDTO.cs",
               "RelativeToolTip": "MarioTask\\DTO\\CharacterUserDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:54:33.482Z"
+              "WhenOpened": "2024-04-12T12:54:33.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "CharacterUser.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\CharacterUser.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\CharacterUser.cs",
               "RelativeDocumentMoniker": "MarioTask\\Models\\CharacterUser.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\CharacterUser.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\CharacterUser.cs",
               "RelativeToolTip": "MarioTask\\Models\\CharacterUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:42:41.542Z"
+              "WhenOpened": "2024-04-12T12:42:41.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "MarioDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\MarioDBContext.cs",
+              "RelativeDocumentMoniker": "MarioTask\\Models\\MarioDBContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\MarioDBContext.cs",
+              "RelativeToolTip": "MarioTask\\Models\\MarioDBContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T12:31:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CharacterUserController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Controllers\\CharacterUserController.cs",
+              "RelativeDocumentMoniker": "MarioTask\\Controllers\\CharacterUserController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Controllers\\CharacterUserController.cs",
+              "RelativeToolTip": "MarioTask\\Controllers\\CharacterUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:57:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeamUserController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Controllers\\TeamUserController.cs",
+              "RelativeDocumentMoniker": "MarioTask\\Controllers\\TeamUserController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Controllers\\TeamUserController.cs",
+              "RelativeToolTip": "MarioTask\\Controllers\\TeamUserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:56:45.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterUserService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\CharacterUserService.cs",
+              "RelativeDocumentMoniker": "MarioTask\\Services\\CharacterUserService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Services\\CharacterUserService.cs",
+              "RelativeToolTip": "MarioTask\\Services\\CharacterUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:53:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "TeamUser.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\TeamUser.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\TeamUser.cs",
               "RelativeDocumentMoniker": "MarioTask\\Models\\TeamUser.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\TeamUser.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\Models\\TeamUser.cs",
               "RelativeToolTip": "MarioTask\\Models\\TeamUser.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,23 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MarioDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\MarioDBContext.cs",
-              "RelativeDocumentMoniker": "MarioTask\\Models\\MarioDBContext.cs",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\Models\\MarioDBContext.cs",
-              "RelativeToolTip": "MarioTask\\Models\\MarioDBContext.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T12:31:43.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MarioTask.csproj",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\MarioTask.csproj",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\MarioTask.csproj",
               "RelativeDocumentMoniker": "MarioTask\\MarioTask.csproj",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\MarioTask.csproj",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\MarioTask.csproj",
               "RelativeToolTip": "MarioTask\\MarioTask.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -227,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\appsettings.json",
               "RelativeDocumentMoniker": "MarioTask\\appsettings.json",
-              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\appsettings.json",
               "RelativeToolTip": "MarioTask\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

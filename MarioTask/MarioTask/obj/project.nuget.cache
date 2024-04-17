@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qDFutHzyIz8Rr7ZeZZbUszYdv/roNidVWuNTx2zlQZ3BHq91+uOSwEqs69r5WrBIHrEwVpdMcFn/BbyS2CoCyw==",
+  "dgSpecHash": "U4hmpGO32vjaUBqadxXKZNrc5B/rcMXzt2OjfXNH4l+7WlTEm4zXgQ5fcJqKtpzAybjT9LJh3xJ0B+gpGHUJmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\Nasa05.04\\MarioTask\\MarioTask\\MarioTask.csproj",
+  "projectFilePath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\MarioTask\\MarioTask\\MarioTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utente\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\utente\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

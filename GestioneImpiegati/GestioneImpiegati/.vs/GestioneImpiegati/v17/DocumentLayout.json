@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\views\\impiegato\\inserimento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\controllers\\impiegatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\services\\impiegatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\repositories\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\repositories\\impiegatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|c:\\users\\utente\\desktop\\progettiacademyy\\gestioneimpiegati\\gestioneimpiegati\\gestioneimpiegati\\models\\gimpiegatodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32E31721-3692-4238-934A-8219C0A3E8A1}|GestioneImpiegati\\GestioneImpiegati.csproj|solutionrelative:gestioneimpiegati\\models\\gimpiegatodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inserimento.cshtml",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "RelativeToolTip": "GestioneImpiegati\\Views\\Impiegato\\Inserimento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T14:39:55.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Program.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Program.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:54:35.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImpiegatoService.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Services\\ImpiegatoService.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Services\\ImpiegatoService.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Services\\ImpiegatoService.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Services\\ImpiegatoService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:00:08.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImpiegatoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Controllers\\ImpiegatoController.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Controllers\\ImpiegatoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Controllers\\ImpiegatoController.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Controllers\\ImpiegatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:52:30.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImpiegatoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Repositories\\ImpiegatoRepository.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Repositories\\ImpiegatoRepository.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Repositories\\ImpiegatoRepository.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Repositories\\ImpiegatoRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:44:50.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Repositories\\IRepo.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Repositories\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:42:55.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GimpiegatoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Models\\GimpiegatoDbContext.cs",
+              "RelativeDocumentMoniker": "GestioneImpiegati\\Models\\GimpiegatoDbContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\ProgettiAcademyy\\GestioneImpiegati\\GestioneImpiegati\\GestioneImpiegati\\Models\\GimpiegatoDbContext.cs",
+              "RelativeToolTip": "GestioneImpiegati\\Models\\GimpiegatoDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:57:50.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

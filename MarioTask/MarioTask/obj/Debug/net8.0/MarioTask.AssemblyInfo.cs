@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarioTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+954f5010c2b980da698a77f6a16186d42a3bfa46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3ffedc99fbe3e1dba6a18d4800ff3f14295dbaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarioTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarioTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
